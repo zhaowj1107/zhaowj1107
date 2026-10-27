@@ -24,9 +24,6 @@
 
 ### 📈 Contribution Activity
 
-* **Commits Target (54 / 200)**:
-![Commits Progress](https://img.shields.io/badge/Progress-27%25-blue?style=flat-square&logo=github)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zhaowj1107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
